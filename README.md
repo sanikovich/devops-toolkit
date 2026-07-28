@@ -1,4 +1,4 @@
-# infra-toolkit
+# DevOps Toolkit
 
 A personal collection of infrastructure automation tools, scripts, templates, and operational utilities.
 
@@ -19,7 +19,7 @@ This repository serves as a centralized toolbox for managing servers, developmen
 ## Repository Structure
 
 ```text
-infra-toolkit/
+devops-toolkit/
 
 ├── powershell/
 │   ├── modules/
