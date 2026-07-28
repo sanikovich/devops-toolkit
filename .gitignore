@@ -1,0 +1,73 @@
+# Secrets
+.env
+.env.*
+*.secret
+*.key
+*.pem
+*.pfx
+*.crt
+*.csr
+
+# Credentials
+credentials.json
+credentials.yml
+secrets.json
+secrets.yml
+
+# PowerShell
+*.ps1xml
+
+# Terraform
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+*.swp
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Node.js
+node_modules/
+
+# Ruby
+.bundle/
+vendor/bundle/
+.yardoc/
+.yardocdb/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Generated backups
+backup/
+backups/
+
